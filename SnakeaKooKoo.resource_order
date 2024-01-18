@@ -17,6 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"blacked","order":1,"path":"rooms/blacked/blacked.yy",},
+    {"name":"Sprite2","order":4,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Block_1","order":1,"path":"sprites/Block_1/Block_1.yy",},
+    {"name":"Block_2","order":2,"path":"sprites/Block_2/Block_2.yy",},
+    {"name":"Object1","order":1,"path":"objects/Object1/Object1.yy",},
+    {"name":"Object2","order":3,"path":"objects/Object2/Object2.yy",},
   ],
 }

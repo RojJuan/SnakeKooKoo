@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
@@ -31,18 +31,20 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.1100.0.444",
+    "IDEVersion": "2023.2.1.75",
   },
   "resources": [
-    {"id":{"name":"blacked","path":"rooms/blacked/blacked.yy",},},
-    {"id":{"name":"player","path":"objects/player/player.yy",},},
-    {"id":{"name":"redroom","path":"rooms/redroom/redroom.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+    {"id":{"name":"Block_1","path":"sprites/Block_1/Block_1.yy",},},
+    {"id":{"name":"cadre_spr","path":"sprites/cadre_spr/cadre_spr.yy",},},
+    {"id":{"name":"Block_2","path":"sprites/Block_2/Block_2.yy",},},
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
+    {"id":{"name":"TETroom","path":"rooms/TETroom/TETroom.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"redroom","path":"rooms/redroom/redroom.yy",},},
-    {"roomId":{"name":"blacked","path":"rooms/blacked/blacked.yy",},},
+    {"roomId":{"name":"TETroom","path":"rooms/TETroom/TETroom.yy",},},
   ],
-  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],
