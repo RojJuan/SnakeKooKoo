@@ -1,6 +1,6 @@
 # SnakeKooKoo
 
-SnakeKooKoo - a snake game
+SnakeKooKoo - a minigame collection
 
 (development name)
 
