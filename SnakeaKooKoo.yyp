@@ -40,6 +40,7 @@
     {"id":{"name":"Block_2","path":"sprites/Block_2/Block_2.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
+    {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},},
     {"id":{"name":"TETroom","path":"rooms/TETroom/TETroom.yy",},},
   ],
   "RoomOrderNodes": [

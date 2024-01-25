@@ -1,2 +1,2 @@
-/// @description Insert description here
-// You can write your code in this editor
+clock = 0;
+clockTime = 60;

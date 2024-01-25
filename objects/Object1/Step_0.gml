@@ -1,0 +1,1 @@
+if clock > 0 {clock--;} 
