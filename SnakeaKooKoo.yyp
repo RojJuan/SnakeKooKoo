@@ -36,7 +36,7 @@
   "resources": [
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Block_1","path":"sprites/Block_1/Block_1.yy",},},
-    {"id":{"name":"cadre_spr","path":"sprites/cadre_spr/cadre_spr.yy",},},
+    {"id":{"name":"frame_spr","path":"sprites/frame_spr/frame_spr.yy",},},
     {"id":{"name":"Block_2","path":"sprites/Block_2/Block_2.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
